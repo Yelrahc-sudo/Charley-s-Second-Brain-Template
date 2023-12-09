@@ -14,6 +14,7 @@ These obsidian plugins used in the brain are follow, including,
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview): advanced queries over my vault for the data-obsessed.
 - [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks): task management for my project or daily work.
 - [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden): to publish my notes to the web.
+
 Some optional plugins: 
 - [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus): save the workspace layout.
 - [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection): paste url into selection 'text'.
