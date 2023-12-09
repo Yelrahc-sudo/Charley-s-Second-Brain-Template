@@ -1,0 +1,185 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "6f796b01151a66a7",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9825565a41a57f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a3374dda2d21353b",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Other/Dashboard.canvas",
+                    "viewState": {
+                      "x": -60,
+                      "y": -150,
+                      "zoom": -0.086324799824372
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d68077b3f500e69e",
+        "type": "split",
+        "children": [
+          {
+            "id": "b0bc54abeb578d56",
+            "type": "tabs",
+            "dimension": 24.271844660194173,
+            "children": [
+              {
+                "id": "2d3a9e2cd9676c5a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "90bb8cacfcf27587",
+            "type": "tabs",
+            "dimension": 75.72815533980582,
+            "children": [
+              {
+                "id": "e24a621819dd62af",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0ba175b2ac5e5cc5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 318.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a2a1a465b1bd14d6",
+        "type": "split",
+        "children": [
+          {
+            "id": "1c59bffa75d9a079",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccc659ae35b0f2a1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Other/Dashboard.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8cfffb8a5c9a95cc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Other/Dashboard.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d4f6465ac1513903",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Other/Dashboard.canvas"
+                  }
+                }
+              },
+              {
+                "id": "cc671a966b14469f",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "ad8a361f8698ced6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Other/Dashboard.canvas"
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "cmdr:Home": false,
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": true,
+          "templater-obsidian:Templater": true
+        }
+      },
+      "active": "a3374dda2d21353b",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Class",
+          "Other",
+          "Projects"
+        ]
+      }
+    }
+  },
+  "active": "Home"
+}

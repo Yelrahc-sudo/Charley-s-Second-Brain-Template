@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Favorite": "checkbox",
+    "dg-home": "checkbox",
+    "dg-note-icon": "multitext",
+    "dg-publish": "checkbox",
+    "Deadline": "date",
+    "started": "date",
+    "finished": "date",
+    "rating": "multitext",
+    "Created": "text",
+    "Updated": "text",
+    "Score/5": "multitext",
+    "due": "date"
+  }
+}

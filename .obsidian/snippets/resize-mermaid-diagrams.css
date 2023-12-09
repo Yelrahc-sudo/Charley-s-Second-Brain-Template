@@ -1,0 +1,10 @@
+svg[id^="m"][width][height][viewBox] {
+    min-width: 325px;
+    max-width: 625px;
+    width: auto;
+    height: auto;
+}
+
+div.mermaid {
+    text-align: center;
+}

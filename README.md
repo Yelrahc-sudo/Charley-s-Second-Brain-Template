@@ -1,0 +1,19 @@
+
+![[My Second Brain.png]]
+This is my second brain template. In my brain, I use PARA and Digital Garden Method to build it.
+
+These obsidian plugins used in the brain are follow, including,
+- [Metadata Menu](https://github.com/mdelobelle/metadatamenu): to manage the metadata in my notes.
+- [Templater](https://github.com/SilentVoid13/Templater): create my notes, project, kanban and etc use templates.
+- [QuickAdd](https://github.com/chhoumann/quickadd): quickly add new notes to my second brain.
+- [Calendar](https://github.com/liamcain/obsidian-calendar-plugin): create my daily notes.
+- [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes): create my daily, weekly, monthly and yearly notes.
+- [Buttons](https://github.com/shabegom/buttons): create Buttons in my notes.
+- [Linter](https://github.com/platers/obsidian-linter): formats, styles my notes, and autoupdate the last modified time of my notes.
+- [Kanban](https://github.com/platers/obsidian-linter): display my tasks.
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview): advanced queries over my vault for the data-obsessed.
+- [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks): task management for my project or daily work.
+- [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden): to publish my notes to the web.
+Some optional plugins: 
+- [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus): save the workspace layout.
+- [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection): paste url into selection 'text'.

@@ -1,0 +1,65 @@
+{
+  "targetAttributes": [
+    "status",
+    "priority"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "Done",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "aaa0-7cb7",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "priority",
+      "value": "High",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d106-b043",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "priority",
+      "value": "Medium",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0b61-46d6",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "priority",
+      "value": "Low",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "5db4-04b9",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "workspaces-plus:Home",
+      "icon": "home",
+      "name": "Home",
+      "mode": "any",
+      "color": "#666666"
+    },
+    {
+      "id": "workspaces-plus:Work",
+      "icon": "activity",
+      "name": "Workspaces Plus: Load: Work",
+      "mode": "any",
+      "color": "#383838"
+    },
+    {
+      "id": "calendar:show-calendar-view",
+      "icon": "calendar",
+      "name": "Calendar: Open view",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

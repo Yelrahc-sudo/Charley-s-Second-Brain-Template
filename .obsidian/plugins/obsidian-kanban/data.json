@@ -1,0 +1,11 @@
+{
+  "show-relative-date": true,
+  "date-picker-week-start": 1,
+  "show-checkboxes": true,
+  "link-date-to-daily-note": true,
+  "new-note-template": "Templates/PeriodicNotes/Daily Template.md",
+  "new-note-folder": "Notes/PeriodicNotes",
+  "tag-colors": [],
+  "date-display-format": "YYYY-MM-DD",
+  "date-format": "YYYY-MM-DD"
+}

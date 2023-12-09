@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "6f796b01151a66a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "605b38881f37e220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb4b194cef1a1c5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b518949db983665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d68077b3f500e69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0bc54abeb578d56",
+        "type": "tabs",
+        "dimension": 53.762135922330096,
+        "children": [
+          {
+            "id": "2d3a9e2cd9676c5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "90bb8cacfcf27587",
+        "type": "tabs",
+        "dimension": 46.237864077669904,
+        "children": [
+          {
+            "id": "e24a621819dd62af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ba175b2ac5e5cc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b0d00f5f7313a80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a2a1a465b1bd14d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c59bffa75d9a079",
+        "type": "tabs",
+        "dimension": 40.29126213592233,
+        "children": [
+          {
+            "id": "ccc659ae35b0f2a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cfffb8a5c9a95cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4f6465ac1513903",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cb5492976094e27",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ead148417cbe757e",
+        "type": "tabs",
+        "dimension": 59.70873786407767,
+        "children": [
+          {
+            "id": "b29c5a7ee39311ae",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.655498353494692,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false,
+      "obsidian42-brat:BRAT": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": true,
+      "templater-obsidian:Templater": false,
+      "cmdr:Home": false,
+      "cmdr:Workspaces Plus: Load: Work": false,
+      "cmdr:Calendar: Open view": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e24a621819dd62af",
+  "lastOpenFiles": [
+    "LICENSE",
+    "asset/My Second Brain.png",
+    "README.md",
+    "Home/🍀My Digital Garden.md",
+    "Home/💥My Brainstorms.md",
+    "Home/🏡My Home.md",
+    "Home/📖My Books.md",
+    "Home/🔭My Resources.md",
+    "Home/📥My Inputs.md",
+    "Home/🔁My Periodic Reviews.md",
+    "Home/🔨Tasks.md",
+    "Home/🗃My Archives.md",
+    "Home/🧠My Second Brain.md",
+    "Home/⚒My Projects.md",
+    "Home/📊 My Kanbans.md",
+    "Home/⛰My Areas.md",
+    "Home/💭My Thoughts.md",
+    "Templates/Resource Template.md",
+    "Class/Note.md",
+    "1.Projects/p2.md",
+    "Templates/PeriodicNotes/Monthly Template.md",
+    "Templates/PeriodicNotes/Daily Template.md",
+    "Templates/Area Template.md",
+    "Templates/Book Application Template.md",
+    "Templates/Book Note Template.md",
+    "Templates/Brainstrom Template.md",
+    "Templates/EvergreenNote Template.md",
+    "asset/flower.svg",
+    "1.Projects/p2",
+    "Home",
+    "Notes/PeriodicNotes/2023/Weekly",
+    "Templates/PeriodicNotes/2023/Daily/12",
+    "Templates/PeriodicNotes/2023/Daily",
+    "Templates/PeriodicNotes/2023",
+    "Notes/PeriodicNotes/2023/Daily/12",
+    "Notes/PeriodicNotes/2023/Daily",
+    "Notes/PeriodicNotes/2023",
+    "Notes/PeriodicNotes",
+    "asset/wilted.svg",
+    "asset/stone.svg",
+    "asset/seeding.svg",
+    "asset/sapling.svg",
+    "image/test.png",
+    "Other/Dashboard.canvas",
+    "images/stones.png",
+    "images/seeding.png",
+    "images/sapling.png"
+  ]
+}
