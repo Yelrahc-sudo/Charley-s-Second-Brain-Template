@@ -1,6 +1,6 @@
 
 ![](https://worker.rahc.top/imgs/heima-class-AI/202312092304327.png)
-This is my second brain template. In my brain, I use PARA and Digital Garden Method to build it.
+This is my second brain. In my brain, I use PARA and Digital Garden Method to build it.
 
 These obsidian plugins used in the brain are follow, including,
 - [Metadata Menu](https://github.com/mdelobelle/metadatamenu): to manage the metadata in my notes.
