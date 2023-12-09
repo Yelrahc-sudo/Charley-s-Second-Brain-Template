@@ -1,5 +1,5 @@
 
-![[My Second Brain.png]]
+![](https://worker.rahc.top/imgs/heima-class-AI/202312092304327.png)
 This is my second brain template. In my brain, I use PARA and Digital Garden Method to build it.
 
 These obsidian plugins used in the brain are follow, including,
