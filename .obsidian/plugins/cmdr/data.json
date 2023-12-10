@@ -8,21 +8,13 @@
     {
       "id": "workspaces-plus:Home",
       "icon": "home",
-      "name": "Home",
-      "mode": "any",
-      "color": "#666666"
+      "name": "Workspaces Plus: Load: Home",
+      "mode": "any"
     },
     {
       "id": "workspaces-plus:Work",
       "icon": "activity",
       "name": "Workspaces Plus: Load: Work",
-      "mode": "any",
-      "color": "#383838"
-    },
-    {
-      "id": "calendar:show-calendar-view",
-      "icon": "calendar",
-      "name": "Calendar: Open view",
       "mode": "any"
     }
   ],

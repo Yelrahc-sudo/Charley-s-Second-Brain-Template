@@ -247,7 +247,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "关于数字花园.md",
+                    "file": "README.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -312,8 +312,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 200,
-        "collapsed": true
+        "width": 200
       },
       "right": {
         "id": "a2a1a465b1bd14d6",
@@ -329,7 +328,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "关于数字花园.md",
+                    "file": "README.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -346,7 +345,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "关于数字花园.md",
+                    "file": "README.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -358,7 +357,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "关于数字花园.md"
+                    "file": "README.md"
                   }
                 }
               }
@@ -375,7 +374,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "关于数字花园.md",
+                    "file": "README.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -412,20 +411,19 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "cmdr:Calendar: Open view": false,
+          "periodic-notes:Open today": false,
           "daily-notes:Open today's daily note": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "graph:Open graph view": false,
-          "dbfolder:Create a new database table": false,
           "obsidian42-brat:BRAT": false,
           "mermaid-tools:Open Mermaid Toolbar": false,
           "obsidian-importer:Open Importer": false,
           "switcher:Open quick switcher": true,
           "canvas:Create new canvas": true,
-          "templates:Insert template": true,
           "cmdr:Workspaces Plus: Load: Work": false,
           "command-palette:Open command palette": true,
           "workspaces:Manage workspace layouts": true,
-          "digitalgarden:Digital Garden Publication Center": false,
           "templater-obsidian:Templater": false,
           "cmdr:Home": false
         }
@@ -433,10 +431,7 @@
       "active": "248d390c1e9d55a5",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "Class",
-          "JavaWeb",
-          "JavaWeb/Notes",
-          "Navigators"
+          "Class"
         ]
       }
     }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa2e76075ba0d5b2",
+        "id": "4ebb7b3b52cf6219",
         "type": "tabs",
         "children": [
           {
-            "id": "c4af1837778d9a7a",
+            "id": "e8cf864787e94781",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -27,7 +27,7 @@
       {
         "id": "b0bc54abeb578d56",
         "type": "tabs",
-        "dimension": 53.762135922330096,
+        "dimension": 58.00970873786409,
         "children": [
           {
             "id": "2d3a9e2cd9676c5a",
@@ -42,7 +42,7 @@
       {
         "id": "90bb8cacfcf27587",
         "type": "tabs",
-        "dimension": 46.237864077669904,
+        "dimension": 41.99029126213591,
         "children": [
           {
             "id": "e24a621819dd62af",
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "7 days",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -184,29 +184,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
+      "cmdr:Workspaces Plus: Load: Home": false,
       "daily-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false,
-      "obsidian42-brat:BRAT": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
       "templater-obsidian:Templater": false,
-      "cmdr:Home": false,
       "cmdr:Workspaces Plus: Load: Work": false,
-      "cmdr:Calendar: Open view": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4af1837778d9a7a",
+  "active": "2d3a9e2cd9676c5a",
   "lastOpenFiles": [
+    "README.md",
+    "Home/🏡My Home.md",
     "Templates/General Input Template.md",
     "Templates/Project Template.md",
     "How to Use/Documents.md",
@@ -227,13 +225,11 @@
     "Home/📥My Inputs.md",
     "Templates/Note Template.md",
     "Templates/Resource Template.md",
-    "README.md",
     "Templates/EvergreenNote Template.md",
     "Home/🍀My Digital Garden.md",
     "Templates/Thought Template.md",
     "How to Use",
     "Home/🔁My Periodic Reviews.md",
-    "Templates/PeriodicNotes/Monthly Template.md",
     "asset/flower.svg",
     "LICENSE",
     "asset/My Second Brain.png",
