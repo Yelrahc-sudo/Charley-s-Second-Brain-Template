@@ -6,7 +6,6 @@
       {
         "id": "4ebb7b3b52cf6219",
         "type": "tabs",
-        "dimension": 44.49901768172888,
         "children": [
           {
             "id": "e8cf864787e94781",
@@ -14,27 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/project2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "19f58616c945f251",
-        "type": "tabs",
-        "dimension": 55.50098231827112,
-        "children": [
-          {
-            "id": "da7adbdba3122b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md"
+                "file": "README.md"
               }
             }
           },
@@ -182,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,12 +211,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da7adbdba3122b80",
+  "active": "e8cf864787e94781",
   "lastOpenFiles": [
-    "1.Projects/project2_kanban.md",
     "1.Projects/project2.md",
-    "4.Archives/Readme.md",
     "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
+    "1.Projects/project2_kanban.md",
+    "4.Archives/Readme.md",
     "Notes/PeriodicNotes/2023/Daily/12",
     "Notes/PeriodicNotes/2023/Daily",
     "Notes/PeriodicNotes/2023",
