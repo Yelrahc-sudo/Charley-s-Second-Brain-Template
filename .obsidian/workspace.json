@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "605b38881f37e220",
+        "id": "fa2e76075ba0d5b2",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4b194cef1a1c5c",
+            "id": "c4af1837778d9a7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b518949db983665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "7 days",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,36 +205,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb4b194cef1a1c5c",
+  "active": "c4af1837778d9a7a",
   "lastOpenFiles": [
+    "Templates/General Input Template.md",
+    "Templates/Project Template.md",
+    "How to Use/Documents.md",
+    "Class/Kanban.md",
+    "Class/EvergreenNote.md",
+    "Class/Input.md",
+    "Class/Note.md",
+    "Templates/Book Note Template.md",
+    "Class/Project.md",
+    "Class/Action.md",
+    "Class/Default.md",
+    "Home/🔭My Resources.md",
+    "Home/💥My Brainstorms.md",
+    "Templates/Brainstrom Template.md",
+    "Templates/Area Template.md",
+    "Home/💭My Thoughts.md",
+    "Home/📖My Books.md",
+    "Home/📥My Inputs.md",
+    "Templates/Note Template.md",
+    "Templates/Resource Template.md",
+    "README.md",
+    "Templates/EvergreenNote Template.md",
+    "Home/🍀My Digital Garden.md",
+    "Templates/Thought Template.md",
+    "How to Use",
+    "Home/🔁My Periodic Reviews.md",
+    "Templates/PeriodicNotes/Monthly Template.md",
+    "asset/flower.svg",
     "LICENSE",
     "asset/My Second Brain.png",
-    "README.md",
-    "Home/🍀My Digital Garden.md",
-    "Home/💥My Brainstorms.md",
-    "Home/🏡My Home.md",
-    "Home/📖My Books.md",
-    "Home/🔭My Resources.md",
-    "Home/📥My Inputs.md",
-    "Home/🔁My Periodic Reviews.md",
-    "Home/🔨Tasks.md",
-    "Home/🗃My Archives.md",
-    "Home/🧠My Second Brain.md",
-    "Home/⚒My Projects.md",
-    "Home/📊 My Kanbans.md",
-    "Home/⛰My Areas.md",
-    "Home/💭My Thoughts.md",
-    "Templates/Resource Template.md",
-    "Class/Note.md",
-    "1.Projects/p2.md",
-    "Templates/PeriodicNotes/Monthly Template.md",
-    "Templates/PeriodicNotes/Daily Template.md",
-    "Templates/Area Template.md",
-    "Templates/Book Application Template.md",
-    "Templates/Book Note Template.md",
-    "Templates/Brainstrom Template.md",
-    "Templates/EvergreenNote Template.md",
-    "asset/flower.svg",
     "1.Projects/p2",
     "Home",
     "Notes/PeriodicNotes/2023/Weekly",
@@ -266,8 +245,6 @@
     "Templates/PeriodicNotes/2023",
     "Notes/PeriodicNotes/2023/Daily/12",
     "Notes/PeriodicNotes/2023/Daily",
-    "Notes/PeriodicNotes/2023",
-    "Notes/PeriodicNotes",
     "asset/wilted.svg",
     "asset/stone.svg",
     "asset/seeding.svg",

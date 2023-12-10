@@ -1,6 +1,6 @@
 ---
 Class: Book
-Updated: 
+Updated: 2023-12-10 11:19:48
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: 
 tags:

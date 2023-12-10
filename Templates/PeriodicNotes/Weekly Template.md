@@ -1,6 +1,6 @@
 ---
 Class: Note
-Updated: 2023-12-08 23:10:03
+Updated: 2023-12-10 11:19:15
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[🔁My Periodic Reviews]]"
 tags:
@@ -24,7 +24,7 @@ para: Project
 # <% tp.file.title %>
 
 
-## Future Plan
+## Next Week Plan
 ### Action Items
 
 - [ ] 
@@ -34,13 +34,18 @@ para: Project
 ## Daily Habits
 
 ## Projects
-- dataview project
+```dataview
+table started, finished, due, area
+from #project 
+where !contains(file.name, "Template")
+where date(today) - started <= dur(7 days)
+```
 ### Reflection
 #### Learning
 
 ## Recap
 
-## Days
+### Days
 ```dataview
 LIST
 FROM #note/daily 

@@ -1,6 +1,6 @@
 ---
 Class: Book
-Updated: 2023-12-08 22:50:55
+Updated: 2023-12-10 11:20:01
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[📖My Books]]"
 tags:
@@ -21,9 +21,10 @@ status: Not Started
 source: 
 cover-image: 
 summary: 
-rating: ⭐️
+rating:
+  - ⭐️
 author: 
-maturity: 
+maturity:
 ---
 
 

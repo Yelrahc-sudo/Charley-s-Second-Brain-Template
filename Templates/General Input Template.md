@@ -1,6 +1,6 @@
 ---
 Class: Input
-Updated: 2023-12-08 22:49:12
+Updated: 2023-12-10 15:35:02
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[📥My Inputs]]"
 tags:
@@ -18,10 +18,10 @@ favorite:
 level: Raw Materials
 para: Resource
 status: Not Started
-mediaType: 
 source: 
-author:
+author: 
 maturity: 
+media-type:
 ---
 
 

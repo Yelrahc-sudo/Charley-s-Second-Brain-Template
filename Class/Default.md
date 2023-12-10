@@ -33,8 +33,8 @@ filesPaths:
 bookmarksGroups: 
 excludes: 
 extends: 
-savedViews: []
+savedViews: 
 favoriteView: 
 Created: 2023-12-08 13:40:48
-Updated: 2023-12-08 16:12:52
+Updated: 2023-12-10 11:14:38
 ---

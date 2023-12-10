@@ -1,5 +1,6 @@
 ---
-Updated: 2023-12-09 15:54:29
+Class: Default
+Updated: 2023-12-10 11:19:37
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[⛰My Areas]]"
 tags:

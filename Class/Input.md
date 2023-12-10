@@ -10,7 +10,7 @@ excludes:
 extends: Note
 savedViews: []
 favoriteView: 
-version: "2.11"
+version: "2.12"
 fields:
   - name: author
     type: Input
@@ -22,7 +22,7 @@ fields:
     options: {}
     path: ""
     id: Xa7dsA
-  - name: mediaType
+  - name: media-type
     type: Select
     options:
       valuesList:
@@ -50,4 +50,6 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: FY43k7
+Created: 2023-12-08 16:27:19
+Updated: 2023-12-10 11:17:11
 ---

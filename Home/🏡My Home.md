@@ -1,12 +1,11 @@
 ---
 Class: Default
-Updated: 2023-12-08 17:37:07
+Updated: 2023-12-10 11:11:02
 Created: 2023-12-07 16:54:38
 Links: 
 tags:
   - 🏡
 ---
-
 ## Productivity
 
 ## Current Projects

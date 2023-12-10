@@ -1,6 +1,6 @@
 ---
 Class: Default
-Updated: 2023-12-08 17:36:51
+Updated: 2023-12-10 11:12:05
 Created: 2023-12-07 17:49:04
 Links: "[[🏡My Home]]"
 tags:
@@ -20,21 +20,21 @@ color blue
 
 
 ## Inputs Sorted
-### Not Started 
+### Not Started
 ```dataview
 table started, finished, rating
 From #note/input 
 where status = "Not Started" and !contains(file.name, "Template")
 SORT started desc
 ```
-### Consuming Media 
+### Consuming Media
 ```dataview
 table started, finished, rating
 From #note/input 
 where status = "Consuming" and !contains(file.name, "Template")
 SORT started desc
 ```
-### Implementation 
+### Implementation
 ```dataview
 table started, finished, rating
 From #note/input 
@@ -42,7 +42,7 @@ where status = "Implementation" and !contains(file.name, "Template")
 SORT started desc
 ```
 
-### Finished 
+### Finished
 ```dataview
 table started, finished, rating
 From #note/input 
@@ -50,7 +50,7 @@ where status = "Finished" and !contains(file.name, "Template")
 SORT started desc
 ```
 
-### Incomplete 
+### Incomplete
 ```dataview
 table started, finished, rating
 From #note/input 

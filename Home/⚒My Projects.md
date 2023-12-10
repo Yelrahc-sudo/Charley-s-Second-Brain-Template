@@ -1,6 +1,6 @@
 ---
 Class: Default
-Updated: 2023-12-08 17:36:36
+Updated: 2023-12-10 11:13:02
 Created: 2023-12-07 16:23:28
 Links: "[[🏡My Home]]"
 tags:
@@ -32,7 +32,7 @@ from #project
 where status = "🟢"  and !contains(file.name, "Template")
 sort due asc
 ```
-## Paused  🔴
+## Paused 🔴
 ```dataview
 table due, area
 from #project 

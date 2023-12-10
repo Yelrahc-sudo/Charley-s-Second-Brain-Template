@@ -1,6 +1,6 @@
 ---
 Class: Note
-Updated: 2023-12-08 23:12:05
+Updated: 2023-12-10 11:18:40
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[🔁My Periodic Reviews]]"
 tags:
@@ -18,10 +18,8 @@ status: Not Started
 favorite: 
 level: Raw Materials
 para: Project
-maturity: 
+maturity:
 ---
-
-
 
 # <% tp.file.title %>
 <<[[<% tp.date.now("YYYY-MM-DD", -1) %>]] | | [[<% tp.date.now("YYYY-MM-DD", 1) %>]]>>
@@ -29,7 +27,7 @@ maturity:
 ### Today's Focus:
 
 ### Goals/Priorities
-- [x] [completion:: 2023-12-08]
+- [ ] [completion:: 2023-12-08]
 - [ ] 
 - [ ] 
 

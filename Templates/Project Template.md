@@ -1,6 +1,6 @@
 ---
 Class: Project
-Updated: 2023-12-09 17:45:19
+Updated: 2023-12-10 11:21:31
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[⚒My Projects]]"
 tags:

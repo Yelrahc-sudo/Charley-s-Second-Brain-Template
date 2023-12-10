@@ -1,6 +1,6 @@
 ---
 Class: Default
-Updated: 2023-12-08 17:37:01
+Updated: 2023-12-10 11:11:26
 Created: 2023-12-07 17:05:27
 Links: "[[🏡My Home]]"
 tags:

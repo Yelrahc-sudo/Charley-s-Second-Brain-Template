@@ -8,7 +8,7 @@ filesPaths:
 bookmarksGroups: 
 excludes: 
 extends: Action
-savedViews: []
+savedViews: 
 favoriteView: 
 version: "2.42"
 fields:
@@ -53,5 +53,5 @@ fields:
     path: ""
     id: Vf1n6O
 Created: 2023-12-08 00:35:39
-Updated: 2023-12-08 15:39:53
+Updated: 2023-12-10 11:17:42
 ---

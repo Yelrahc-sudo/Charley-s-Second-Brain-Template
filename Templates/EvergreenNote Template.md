@@ -1,6 +1,6 @@
 ---
 Class: EvergreenNote
-Updated: 2023-12-08 22:47:35
+Updated: 2023-12-10 11:20:25
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[🍀My Digital Garden]]"
 tags:
@@ -20,7 +20,7 @@ level: Raw Materials
 para: Project
 dg-publish: 
 dg-home: 
-dg-note-icon: 
+dg-note-icon:
 ---
 
 

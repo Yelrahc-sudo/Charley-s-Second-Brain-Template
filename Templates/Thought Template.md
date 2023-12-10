@@ -1,6 +1,6 @@
 ---
 Class: Thought
-Updated: 2023-12-08 23:06:49
+Updated: 2023-12-10 11:21:50
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[💭My Thoughts]]"
 tags:

@@ -1,3 +1,10 @@
+---
+Updated: 2023-12-10 11:15:37
+Created: 2023-12-09 21:27:54
+Links: "[[🏡My Home]]"
+tags:
+  - readme
+---
 
 ![](https://worker.rahc.top/imgs/heima-class-AI/202312092304327.png)
 This is my second brain. In my brain, I use PARA and Digital Garden Method to build it.
@@ -18,3 +25,9 @@ These obsidian plugins used in the brain are follow, including,
 Some optional plugins: 
 - [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus): save the workspace layout.
 - [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection): paste url into selection 'text'.
+
+# How to Use
+
+- [[Documents]]
+
+ 

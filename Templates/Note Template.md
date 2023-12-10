@@ -1,6 +1,6 @@
 ---
 Class: Note
-Updated: 2023-12-08 22:47:35
+Updated: 2023-12-10 11:21:19
 Created: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 Links: "[[🏡My Home]]"
 tags:
@@ -18,7 +18,7 @@ status: Not Started
 favorite: 
 level: Raw Materials
 para: Project
-maturity: 
+maturity:
 ---
 
 
