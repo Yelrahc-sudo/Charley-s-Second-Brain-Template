@@ -1,0 +1,1 @@
+This is a empty folder. The archived note or project will be archived by setting the field `archived = true`.

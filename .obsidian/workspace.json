@@ -11,8 +11,13 @@
             "id": "e8cf864787e94781",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4.Archives/Readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4.Archives/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4.Archives/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4.Archives/Readme.md"
+              }
             }
           },
           {
@@ -152,6 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "4.Archives/Readme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,8 +211,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d3a9e2cd9676c5a",
+  "active": "e8cf864787e94781",
   "lastOpenFiles": [
+    "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
+    "4.Archives/Readme.md",
+    "Notes/PeriodicNotes/2023/Daily/12",
+    "Notes/PeriodicNotes/2023/Daily",
+    "Notes/PeriodicNotes/2023",
+    "Home/🗃My Archives.md",
+    "1.Projects/prroject1.md",
+    "1.Projects/project3.md",
+    "1.Projects/project2.md",
+    "3.Resources/resource1.md",
+    "3.Resources/resource2.md",
+    "2.Areas/area2.md",
+    "2.Areas/area1.md",
+    "1.Projects/p1.md",
     "README.md",
     "Home/🏡My Home.md",
     "Templates/General Input Template.md",
@@ -218,18 +242,7 @@
     "Class/Default.md",
     "Home/🔭My Resources.md",
     "Home/💥My Brainstorms.md",
-    "Templates/Brainstrom Template.md",
-    "Templates/Area Template.md",
-    "Home/💭My Thoughts.md",
-    "Home/📖My Books.md",
-    "Home/📥My Inputs.md",
-    "Templates/Note Template.md",
-    "Templates/Resource Template.md",
-    "Templates/EvergreenNote Template.md",
-    "Home/🍀My Digital Garden.md",
-    "Templates/Thought Template.md",
     "How to Use",
-    "Home/🔁My Periodic Reviews.md",
     "asset/flower.svg",
     "LICENSE",
     "asset/My Second Brain.png",
@@ -238,9 +251,6 @@
     "Notes/PeriodicNotes/2023/Weekly",
     "Templates/PeriodicNotes/2023/Daily/12",
     "Templates/PeriodicNotes/2023/Daily",
-    "Templates/PeriodicNotes/2023",
-    "Notes/PeriodicNotes/2023/Daily/12",
-    "Notes/PeriodicNotes/2023/Daily",
     "asset/wilted.svg",
     "asset/stone.svg",
     "asset/seeding.svg",
