@@ -28,6 +28,6 @@ Some optional plugins:
 
 # How to Use
 
-- [[Documents]]
+- [[How to Use/Documents|Document]]
 
  

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "How to Use/Documents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "How to Use/Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "How to Use/Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "How to Use/Documents.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "How to Use/Documents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,6 +213,9 @@
   },
   "active": "e8cf864787e94781",
   "lastOpenFiles": [
+    "README.md",
+    "How to Use/Documents.md",
+    "Home/Documents.md",
     "1.Projects/project2.md",
     "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
     "1.Projects/project2_kanban.md",
@@ -228,11 +231,9 @@
     "2.Areas/area2.md",
     "2.Areas/area1.md",
     "1.Projects/p1.md",
-    "README.md",
     "Home/🏡My Home.md",
     "Templates/General Input Template.md",
     "Templates/Project Template.md",
-    "How to Use/Documents.md",
     "Class/Kanban.md",
     "Class/EvergreenNote.md",
     "Class/Input.md",
@@ -241,7 +242,6 @@
     "Class/Project.md",
     "Class/Action.md",
     "Class/Default.md",
-    "Home/🔭My Resources.md",
     "How to Use",
     "asset/flower.svg",
     "LICENSE",
