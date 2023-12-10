@@ -24,6 +24,7 @@ action QuickAdd: Kanban
 ```
 ^button-nw8f
 %%Link the related kanban here%%
+[[project2_kanban]]
 
 ## Resources
 ### Notes
