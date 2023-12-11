@@ -7,7 +7,7 @@ tags:
 ---
 
 ![](https://worker.rahc.top/imgs/heima-class-AI/202312092304327.png)
-This is my second brain. In my brain, I use [PARA](https://blog.rahc.top/article/note-building-a-second-brain.html) and [Digital Garden](https://garden.rahc.top/) Method to build it. If you want to learn more about personal knowledge management method, you can read my article 《[How to Build a Personal Knowledge Management System](https://blog.rahc.top/article/tech-share-mySecondBrain.html)》in my blog.
+This is my second brain. In my brain, I use [PARA](https://blog.rahc.top/article/note-building-a-second-brain.html) and Digital Garden(example like [my garden](https://garden.rahc.top/) )Method to build it. If you want to learn more about personal knowledge management method, you can read my article 《[How to Build a Personal Knowledge Management System](https://blog.rahc.top/article/tech-share-mySecondBrain.html)》in my blog.
 
 These obsidian plugins used in the brain are follow, including,
 - [Metadata Menu](https://github.com/mdelobelle/metadatamenu): to manage the metadata in my notes.
@@ -23,11 +23,11 @@ These obsidian plugins used in the brain are follow, including,
 - [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden): to publish my notes to the web.
 
 Some optional plugins: 
+- [Commander](https://github.com/phibr0/obsidian-commander): customize your workspace by adding commands everywhere, create macros and supercharge your mobile toolbar.
 - [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus): save the workspace layout.
 - [Paste URL into selection](https://github.com/denolehov/obsidian-url-into-selection): paste url into selection 'text'.
 
 # How to Use
 
-- [[How to Use/Documents|Document]]
+- Please learn more informations from [[How to use]].
 
- 

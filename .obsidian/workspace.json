@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Use/Documents.md",
+                "file": "1.Projects/project2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Use/Documents.md",
+                "file": "1.Projects/project2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Use/Documents.md",
+                "file": "1.Projects/project2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Use/Documents.md"
+                "file": "1.Projects/project2.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How to Use/Documents.md",
+                "file": "1.Projects/project2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,19 +213,21 @@
   },
   "active": "e8cf864787e94781",
   "lastOpenFiles": [
-    "README.md",
-    "How to Use/Documents.md",
-    "Home/Documents.md",
-    "1.Projects/project2.md",
-    "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
     "1.Projects/project2_kanban.md",
+    "Notes/PeriodicNotes/2023/Daily/12/2023-12-10.md",
+    "1.Projects/project2.md",
+    "1.Projects/project3.md",
+    "1.Projects/prroject1.md",
+    "README.md",
+    "How to use.md",
+    "Home/💥My Brainstorms.md",
+    "Templates/Brainstrom Template.md",
+    "Home/Documents.md",
     "4.Archives/Readme.md",
     "Notes/PeriodicNotes/2023/Daily/12",
     "Notes/PeriodicNotes/2023/Daily",
     "Notes/PeriodicNotes/2023",
     "Home/🗃My Archives.md",
-    "1.Projects/prroject1.md",
-    "1.Projects/project3.md",
     "3.Resources/resource1.md",
     "3.Resources/resource2.md",
     "2.Areas/area2.md",
@@ -240,8 +242,6 @@
     "Class/Note.md",
     "Templates/Book Note Template.md",
     "Class/Project.md",
-    "Class/Action.md",
-    "Class/Default.md",
     "How to Use",
     "asset/flower.svg",
     "LICENSE",
