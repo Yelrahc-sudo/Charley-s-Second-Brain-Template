@@ -26,7 +26,7 @@ media-type:
 
 
 
-# <% tp.file.tile %>
+# <% tp.file.title %>
 - ![link]()
 
 ## Summary
